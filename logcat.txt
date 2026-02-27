@@ -1,0 +1,472 @@
+--------- beginning of main
+02-27 17:10:33.007  3879  3906 D ALT     : Calling: 52.4828048,6.1242264
+02-27 17:10:33.008  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:33.008  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:33.008  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:33.008  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:33.008  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:33.008  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:33.008  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:33.008  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:33.008  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:33.008  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:33.008  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:33.008  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:33.009  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:33.009  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:33.009  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:33.009  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:33.009  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:33.009  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:33.009  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:33.009  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:33.009  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:33.009  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:33.346   371   440 W Netd    : No subsystem found in netlink event
+02-27 17:10:33.452  1893  1893 W ThreadPoolForeg: type=1400 audit(0.0:354): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=482 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0 app=com.google.android.gms
+02-27 17:10:34.008  3879  3906 D ALT     : Calling: 52.4828048,6.1242264
+02-27 17:10:34.009  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:34.009  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:34.009  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:34.009  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:34.009  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:34.009  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:34.009  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:34.009  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:34.009  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:34.009  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:34.009  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:34.009  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:34.009  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:34.009  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:34.009  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:34.009  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:34.009  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:34.009  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:34.009  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:34.009  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:34.009  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:34.010  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:35.003  1303  1303 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+02-27 17:10:35.009  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:35.010  3879  3906 D ALT     : Calling: 52.4828048,6.1242264
+02-27 17:10:35.010  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:35.010  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:35.010  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:35.010  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:35.010  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:35.010  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:35.010  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:35.010  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:35.010  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:35.010  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:35.010  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:35.010  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:35.010  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:35.010  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:35.010  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:35.010  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:35.010  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:35.010  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:35.010  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:35.010  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:35.010  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:36.011  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:36.012  3879  3906 D ALT     : Calling: 52.4828048,6.1242264
+02-27 17:10:36.012  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:36.012  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:36.012  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:36.012  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:36.012  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:36.012  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:36.012  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:36.012  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:36.012  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:36.012  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:36.013  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:36.013  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:36.013  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:36.013  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:36.013  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:36.013  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:36.013  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:36.013  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:36.013  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:36.013  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:36.013  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+--------- beginning of system
+02-27 17:10:36.831   500   909 I ArcWifiService: getWifiEnabledState() uid=10000 (com.google.android.gsf,com.google.android.gms) mWifiState=WIFI_STATE_ENABLED
+02-27 17:10:36.834   950  3739 W SystemServiceRegistry: No service published for: wifirtt
+02-27 17:10:36.836   500   612 I ArcWifiScannerService: uid=10000 (com.google.android.gsf,com.google.android.gms) commandId=57: CMD_START_SINGLE_SCAN scanSettings={  type=LOW LATENCY band=WIFI_BAND_24_GHZ|WIFI_BAND_5_GHZ ignoreLocationSettings=false period=0 reportEvents=3 numBssidsPerScan=25 maxScansToCache=0 channels=[]}
+02-27 17:10:36.839   500   612 I ArcWifiScannerService: scan started
+02-27 17:10:37.014  3879  3906 D ALT     : Calling: 52.4828048,6.1242264
+02-27 17:10:37.014  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:37.015  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:37.015  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:37.015  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:37.015  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:37.015  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:37.015  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:37.015  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:37.015  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:37.015  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:37.015  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:37.015  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:37.015  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:37.015  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:37.015  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:37.015  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:37.015  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:37.015  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:37.015  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:37.015  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:37.015  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:37.015  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:38.016  3879  3906 D ALT     : Calling: 52.4828048,6.1242264
+02-27 17:10:38.016  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:38.017  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:38.017  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:38.017  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:38.017  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:38.017  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:38.017  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:38.017  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:38.017  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:38.017  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:38.017  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:38.017  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:38.017  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:38.017  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:38.017  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:38.017  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:38.017  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:38.017  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:38.017  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:38.017  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:38.017  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:38.017  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:39.018  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:39.018  3879  3906 D ALT     : Calling: 52.4828048,6.1242264
+02-27 17:10:39.018  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:39.018  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:39.018  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:39.018  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:39.018  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:39.018  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:39.018  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:39.018  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:39.018  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:39.018  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:39.019  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:39.019  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:39.019  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:39.019  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:39.019  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:39.019  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:39.019  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:39.019  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:39.019  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:39.019  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:39.019  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:39.592   500   625 D ArcNetworkBridge: Scan Completed
+02-27 17:10:39.593   500   612 I ArcWifiScannerService: scan completed
+02-27 17:10:40.018  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:40.018  3879  3906 D ALT     : Calling: 52.4828048,6.1242264
+02-27 17:10:40.018  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:40.018  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:40.018  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:40.018  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:40.018  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:40.018  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:40.018  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:40.018  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:40.018  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:40.018  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:40.018  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:40.018  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:40.018  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:40.018  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:40.018  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:40.018  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:40.018  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:40.018  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:40.018  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:40.018  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:40.018  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:40.599   500   612 I ArcWifiScannerService: 12 scan result(s) sent to uid=10000 (com.google.android.gsf,com.google.android.gms) listenerIds=[]
+02-27 17:10:40.599   500   612 I ArcWifiScannerService: 12 scan result(s) sent to uid=10000 (com.google.android.gsf,com.google.android.gms) requestId=57
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.607   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.609   950  3739 I FrewleTileCacheManagerV: (REDACTED) Fetched %d AP models from cache
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.609   950  3739 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.615   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.616   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.618   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.620   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: TrustedTime initialization task failed
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: bdtq: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at beri.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):15)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at bdvm.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at bdvj.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):5)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at bdxy.q(:com.google.android.gms@260632032@26.06.32 (190800-869789857):48)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at bdxy.d(:com.google.android.gms@260632032@26.06.32 (190800-869789857):10)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at bdxy.g(:com.google.android.gms@260632032@26.06.32 (190800-869789857):191)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at bdxy.onConnectionFailed(:com.google.android.gms@260632032@26.06.32 (190800-869789857):2)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at bess.hS(:com.google.android.gms@260632032@26.06.32 (190800-869789857):3)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at beru.a(:com.google.android.gms@260632032@26.06.32 (190800-869789857):7)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at berl.c(:com.google.android.gms@260632032@26.06.32 (190800-869789857):77)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at bero.handleMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):264)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at csgp.ms(:com.google.android.gms@260632032@26.06.32 (190800-869789857):1)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at csgp.dispatchMessage(:com.google.android.gms@260632032@26.06.32 (190800-869789857):140)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loopOnce(Looper.java:201)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at android.os.Looper.loop(Looper.java:288)
+02-27 17:10:40.622   950  1572 W TrustedTimeHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+02-27 17:10:41.020  3879  3906 D ALT     : Calling: 52.4828049,6.1242273
+02-27 17:10:41.020  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:41.021  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:41.021  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:41.021  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:41.021  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:41.021  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:41.021  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:41.021  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:41.021  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:41.021  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:41.021  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:41.021  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:41.021  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:41.021  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:41.021  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:41.021  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:41.021  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:41.021  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:41.021  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:41.021  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:41.021  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:41.021  3879  3920 D ALT     : Hardcoded test altitude = null
+02-27 17:10:42.022  3879  3906 D ALT     : Calling: 52.4828049,6.1242273
+02-27 17:10:42.022  3879  3920 D ALT     : Calling: 52.482704,6.124333
+02-27 17:10:42.023  3879  3906 E ALT     : Error fetching altitude
+02-27 17:10:42.023  3879  3906 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:42.023  3879  3906 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:42.023  3879  3906 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:42.023  3879  3906 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:42.023  3879  3906 E ALT     : 	at m4.e.h(SourceFile:37)
+02-27 17:10:42.023  3879  3906 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:42.023  3879  3906 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:42.023  3879  3906 E ALT     : 	at i.j.run(SourceFile:35)
+02-27 17:10:42.023  3879  3906 E ALT     : 	at x3.i.run(SourceFile:3)
+02-27 17:10:42.023  3879  3906 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:42.023  3879  3920 E ALT     : Error fetching altitude
+02-27 17:10:42.023  3879  3920 E ALT     : java.lang.IllegalArgumentException: baseUrl must end in /: https://api.open-elevation.com/api/v1/lookup?locations=
+02-27 17:10:42.023  3879  3920 E ALT     : 	at m4.h.a(SourceFile:333)
+02-27 17:10:42.023  3879  3920 E ALT     : 	at e3.e.a(SourceFile:21)
+02-27 17:10:42.023  3879  3920 E ALT     : 	at j3.b.p(SourceFile:95)
+02-27 17:10:42.023  3879  3920 E ALT     : 	at m4.d.h(SourceFile:37)
+02-27 17:10:42.023  3879  3920 E ALT     : 	at i3.a.d(SourceFile:9)
+02-27 17:10:42.023  3879  3920 E ALT     : 	at u3.b0.run(SourceFile:109)
+02-27 17:10:42.023  3879  3920 E ALT     : 	at x3.a.run(SourceFile:92)
+02-27 17:10:42.023  3879  3920 D ALT     : Hardcoded test altitude = null
